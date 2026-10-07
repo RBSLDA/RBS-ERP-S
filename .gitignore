@@ -1,0 +1,6 @@
+*.jks
+*.keystore
+*.log
+node_modules/
+.gradle/
+build/
